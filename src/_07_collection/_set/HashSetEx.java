@@ -6,6 +6,11 @@ import java.util.Set;
 
 public class HashSetEx {
     public static void main(String[] args) {
+        /*
+        * Hashset: 저장되는 기준 hashCode() 
+        * TreeSet: 저장되는 기중 '이진탐색트리'기반으로 저장 > 오름차순
+        * LinkedHashSet: 저장되는 기준, 사용자가 삽입한 순서
+        * */
         Set<String> set1 = new HashSet<>();
         set1.add("apple");
         set1.add("banana");
