@@ -18,5 +18,4 @@ public class StudentMain {
         System.out.println("학번: " + kim.getNum());
         baek.todo();
     }
-
 }
