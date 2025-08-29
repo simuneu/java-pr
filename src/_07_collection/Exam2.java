@@ -1,6 +1,5 @@
-package _07_collection._set;
+package _07_collection;
 
-import javax.security.sasl.SaslClient;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
