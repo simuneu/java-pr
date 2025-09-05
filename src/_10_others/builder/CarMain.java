@@ -1,4 +1,4 @@
-package _10_other_builder;
+package _10_others.builder;
 
 public class CarMain {
     public static void main(String[] args) {

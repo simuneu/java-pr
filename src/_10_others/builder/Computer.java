@@ -1,4 +1,4 @@
-package _10_other_builder;
+package _10_others.builder;
 
 public class Computer {
     //모든 필드를 private final 선언(불변성)
